@@ -2,14 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Dinithi+Nanayakkara" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Computer Science Undergraduate | Passionate Developer | Tech Enthusiast</h3>
-<p align="center">I love building projects, learning new technologies, and sharing knowledge with the community.</p>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=2003dinijay&theme=radical&row=2&column=3" alt="Achievements" />
-  </a>
+  <img src="./IMG_4014%201.png" alt="Chibi Character" width="200"/>
 </p>
+
+<h3 align="center">Computer Science Undergraduate | Passionate Developer | Bioinformatics Enthusiast</h3>
+<p align="center">I love building projects, learning new technologies, and exploring the intersection of biology and computing.</p>
 
 ---
 
@@ -58,13 +56,6 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=2003dinijay&theme=radical&row=1&column=5&margin-w=10" alt="Achievements"/>
 </p>
 
 ---
