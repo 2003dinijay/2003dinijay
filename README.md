@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./IMG_4014%201.png" alt="Chibi Character" width="250"/>
+  <img src="https://github.com/2003dinijay/2003dinijay/blob/main/ezgif-68cca12bf877a0d5.gif?raw=true" alt="Chibi Character" width="250"/>
 </p>
 
 <h3 align="center">Computer Science Undergraduate | Passionate Developer | Bioinformatics Enthusiast</h3>
