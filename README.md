@@ -21,7 +21,7 @@
 - Email: **dinijayo@gmail.com**
 
 ## 🌐 Portfolio
-- 🔗 [Visit my Portfolio](https://your-portfolio-url.com)
+- 🔗 [Visit my Portfolio](https://my-portfolio-j4ps.vercel.app/)
 
 ## 💬 Connect with Me
 <p align="left">
@@ -31,7 +31,7 @@
   <a href="https://github.com/2003dinijay" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://my-portfolio-j4ps.vercel.app/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/safari.svg" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
