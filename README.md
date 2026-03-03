@@ -18,7 +18,10 @@
 - **MERN Stack**, **Flutter**, **FastAPI**, **Agentic AI**
 
 ## 📫 How to Reach Me
-- Email: **dinijayo@gmail.com**  
+- Email: **dinijayo@gmail.com**
+
+## 🌐 Portfolio
+- 🔗 [Visit my Portfolio](https://your-portfolio-url.com)
 
 ## 💬 Connect with Me
 <p align="left">
@@ -28,6 +31,17 @@
   <a href="https://github.com/2003dinijay" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" />
   </a>
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/safari.svg" alt="Portfolio" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=2003dinijay&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=FF69B4&currStreakNum=ffffff&sideNums=ffffff&background=0d1117&stroke=FF69B4" alt="GitHub Streak" />
 </p>
 
 ---
