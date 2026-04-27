@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinithi Nanayakkara</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Passionate+Full-Stack+Developer;DevOps +Enthusiast;Building+AI+Powered+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Passionate+Full-Stack+Developer;DevOps+Enthusiast;Building+AI+Powered+Solutions" />
 </p>
 
 <p align="center">
