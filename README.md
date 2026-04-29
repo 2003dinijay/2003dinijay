@@ -13,7 +13,7 @@
 ## 🌸 About Me
 
 ✨ Computer Science Undergraduate  
-💡 Passionate about **AI, Full-Stack Development & DevOps**  
+💡 Passionate about **AI, Full-Stack Development, DevOps & Cloud**  
 🚀 Love building impactful, real-world projects   
 
 ---
