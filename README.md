@@ -12,7 +12,7 @@
 
 ## 🌸 About Me
 
-✨ Computer Science Undergraduate at NSBM Green University
+✨ Computer Science Undergraduate at NSBM Green 
 💡 Passionate about **AI, Full-Stack Development, DevOps & Cloud**  
 🚀 Love building impactful, real-world projects   
 
