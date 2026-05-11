@@ -12,7 +12,7 @@
 
 ## 🌸 About Me
 
-✨ Computer Science Undergraduate  
+✨ Computer Science Undergraduate at NSBM  
 💡 Passionate about **AI, Full-Stack Development, DevOps & Cloud**  
 🚀 Love building impactful, real-world projects   
 
