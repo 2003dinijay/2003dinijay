@@ -66,13 +66,6 @@
   <img src="https://streak-stats.demolab.com?user=2003dinijay&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=FF69B4" />
 </p>
 
----
-
-## 💡 Featured Project
-
-### 🧠 EcoLense
-🔗 https://github.com/2003dinijay/EcoLense  
-
 ---  
 
 <p align="center">
