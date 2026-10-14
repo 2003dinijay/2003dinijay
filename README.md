@@ -20,7 +20,6 @@
 
 ## 🚀 Current Focus
 
-- 🔭 Working on **Resumind – AI Resume Analyzer**
 - 🌱 Learning **DevOPs, Cloud, MERN Stack, Flutter, FastAPI, Agentic AI**
 
 ---
