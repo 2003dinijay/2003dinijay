@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E1F47,50:7C5CA8,100:D9A6C9&text=Dinithi%20Nanayakkara&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate&descSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2E1F47,50:7C5CA8,100:D9A6C9" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D8B4FE&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Passionate+Full-Stack+Developer;DevOps+Enthusiast;Building+AI+Powered+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=E5DEF5&center=true&vCenter=true&width=900&height=60&repeat=false&lines=Dinithi+Nanayakkara" alt="Dinithi Nanayakkara" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=1200&color=C4B5FD&center=true&vCenter=true&width=800&height=40&lines=Computer+Science+Undergraduate;Full-Stack+Developer;DevOps+Enthusiast;Building+AI+Powered+Solutions" alt="Roles" />
 </p>
 
 <p align="center">
@@ -17,15 +21,15 @@
   <a href="mailto:dinijayo@gmail.com"><img src="https://img.shields.io/badge/Email-D9A6C9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<br/>
 
-## 🌸 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&color=C4B5FD&width=500&height=40&repeat=false&lines=ABOUT+ME" alt="About Me" />
 
 - 🎓 Computer Science Undergraduate
 - 💡 Passionate about **AI, Full-Stack Development, DevOps & Cloud**
 - 🚀 Love building impactful, real-world projects
 
-## 🌱 Current Focus
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&color=C4B5FD&width=500&height=40&repeat=false&lines=CURRENT+FOCUS" alt="Current Focus" />
 
 <p>
   <img src="https://img.shields.io/badge/DevOps-7C5CA8?style=flat-square"/>
@@ -36,13 +40,13 @@
   <img src="https://img.shields.io/badge/Agentic%20AI-D9A6C9?style=flat-square"/>
 </p>
 
-## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&color=C4B5FD&width=500&height=40&repeat=false&lines=TECH+STACK" alt="Tech Stack" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=android,bootstrap,cs,css,docker,figma,firebase,flutter,git,html,java,js,mongodb,mysql,nodejs,php,python,react,spring,tailwind,ts&perline=7" />
 </p>
 
-## 📊 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&color=C4B5FD&width=500&height=40&repeat=false&lines=GITHUB+STATS" alt="GitHub Stats" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2003dinijay&show_icons=true&hide_border=true&bg_color=1E1B2E&title_color=C4B5FD&text_color=E5DEF5&icon_color=D9A6C9&ring_color=A78BCA" height="165"/>
@@ -54,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2003dinijay&label=Profile%20Views&color=7C5CA8&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=2003dinijay&label=Profile%20Views&color=7C5CA8&style=flat-square" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2E1F47,50:7C5CA8,100:D9A6C9&section=footer" width="100%"/>
