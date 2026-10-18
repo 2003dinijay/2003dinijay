@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E1F47,50:7C5CA8,100:D9A6C9&text=Dinithi%20Nanayakkara&fontSize=46&fontColor=ffffff&fontAlignY=40" width="100%"/>
+  <img src="banner.svg" width="100%" alt="Hi! I'm Dinithi"/>
 </p>
 
 <p align="center">
