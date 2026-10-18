@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2E1F47,50:7C5CA8,100:D9A6C9" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=E5DEF5&center=true&vCenter=true&width=900&height=60&repeat=false&lines=Dinithi+Nanayakkara" alt="Dinithi Nanayakkara" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E1F47,50:7C5CA8,100:D9A6C9&text=Dinithi%20Nanayakkara&fontSize=46&fontColor=ffffff&fontAlignY=40" width="100%"/>
 </p>
 
 <p align="center">
