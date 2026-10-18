@@ -57,4 +57,3 @@
   <img src="https://github.com/2003dinijay/2003dinijay/raw/refs/heads/main/footer.svg" width="100%" alt="while (alive) { keepBuilding(); }"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2E1F47,50:7C5CA8,100:D9A6C9&section=footer" width="100%"/>
