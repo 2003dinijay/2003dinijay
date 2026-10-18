@@ -54,7 +54,12 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=2003dinijay&hide_border=true&background=1E1B2E&ring=A78BCA&fire=D9A6C9&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E5DEF5&sideNums=E5DEF5&dates=B8A9D9" />
 </p>
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/USERNAME)
+
+<p align="center">
+  <a href="https://committers.top/sri_lanka">
+    <img src="https://user-badge.committers.top/sri_lanka/2003dinijay.svg" alt="committers.top badge"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github.com/2003dinijay/2003dinijay/raw/refs/heads/main/footer.svg" width="100%" alt="while (alive) { keepBuilding(); }"/>
