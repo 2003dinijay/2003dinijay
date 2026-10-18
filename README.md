@@ -39,7 +39,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&color=C4B5FD&width=500&height=40&repeat=false&lines=TECH+STACK" alt="Tech Stack" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,bootstrap,cs,css,docker,figma,firebase,flutter,git,html,java,js,mongodb,mysql,nodejs,php,python,react,spring,tailwind,ts&perline=7" />
+  <img src="https://skillicons.dev/icons?i=android,bootstrap,cs,css,docker,figma,firebase,flutter,git,html,java,js,mongodb,mysql,nodejs,php,python,react,spring,tailwind,ts,go&perline=11" />
+  <br/>
+  <img src="https://img.shields.io/badge/Ballerina-7C5CA8?style=for-the-badge&logo=ballerina&logoColor=white"/>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&color=C4B5FD&width=500&height=40&repeat=false&lines=GITHUB+STATS" alt="GitHub Stats" />
