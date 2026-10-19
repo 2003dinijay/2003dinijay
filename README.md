@@ -46,9 +46,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&color=C4B5FD&width=500&height=40&repeat=false&lines=GITHUB+STATS" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2003dinijay&layout=compact&hide_border=true&bg_color=1E1B2E&title_color=C4B5FD&text_color=E5DEF5" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=2003dinijay&hide_border=true&background=1E1B2E&ring=A78BCA&fire=D9A6C9&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E5DEF5&sideNums=E5DEF5&dates=B8A9D9" />
 </p>
