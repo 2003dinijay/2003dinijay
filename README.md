@@ -46,8 +46,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&color=C4B5FD&width=500&height=40&repeat=false&lines=GITHUB+STATS" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2003dinijay&show_icons=true&hide_border=true&bg_color=1E1B2E&title_color=C4B5FD&text_color=E5DEF5&icon_color=D9A6C9&ring_color=A78BCA" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2003dinijay&layout=compact&hide_border=true&bg_color=1E1B2E&title_color=C4B5FD&text_color=E5DEF5" height="165"/>
 </p>
 
