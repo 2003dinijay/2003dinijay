@@ -25,16 +25,6 @@
 - 💡 Passionate about **AI, Full-Stack Development, DevOps & Cloud**
 - 🚀 Love building impactful, real-world projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&color=C4B5FD&width=500&height=40&repeat=false&lines=CURRENT+FOCUS" alt="Current Focus" />
-
-<p>
-  <img src="https://img.shields.io/badge/DevOps-7C5CA8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloud-8B6BB5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-A78BCA?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Flutter-B793C9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FastAPI-C79DC4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-D9A6C9?style=flat-square"/>
-</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2000&color=C4B5FD&width=500&height=40&repeat=false&lines=TECH+STACK" alt="Tech Stack" />
 
