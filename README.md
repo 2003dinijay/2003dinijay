@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=1200&color=C4B5FD&center=true&vCenter=true&width=800&height=40&lines=Computer+Science+Undergraduate;Full-Stack+Developer;DevOps+Enthusiast;Building+AI+Powered+Solutions" alt="Roles" />
 </p>
-
+<p align="center">
+  <img src="https://github.com/2003dinijay/2003dinijay/blob/main/ezgif-68cca12bf877a0d5.gif?raw=true" width="220"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/dinithi-nanayakkara"><img src="https://img.shields.io/badge/LinkedIn-7C5CA8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
